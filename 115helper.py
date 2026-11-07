@@ -17,7 +17,7 @@ import subprocess, tempfile, threading, json, os, sys, logging
 #  配置区
 # ============================================================
 
-POTPLAYER = r"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe"
+POTPLAYER = r"D:\PotPlayer\PotPlayerMini64.exe"
 PORT      = 19190
 
 # 日志文件（后台运行时无窗口，通过日志查看状态）
